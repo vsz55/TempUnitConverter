@@ -1,0 +1,14 @@
+F:\Proba\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.exe
+F:\Proba\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.deps.json
+F:\Proba\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.runtimeconfig.json
+F:\Proba\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.dll
+F:\Proba\TempUnitConverter\bin\Debug\net9.0\TempUnitConverter.pdb
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.AssemblyInfoInputs.cache
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.AssemblyInfo.cs
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.csproj.CoreCompileInputs.cache
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.dll
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\refint\TempUnitConverter.dll
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.pdb
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\TempUnitConverter.genruntimeconfig.cache
+F:\Proba\TempUnitConverter\obj\Debug\net9.0\ref\TempUnitConverter.dll
